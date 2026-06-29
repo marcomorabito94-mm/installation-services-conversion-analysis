@@ -1,4 +1,4 @@
-# Installation Services: Conversion Rate Analysis
+# Installation Services: Conversion Rate Analysis 
 
 **Domain:** Retail services / installation management  
 **Methods:** Correlation analysis, lead time segmentation, artisan performance ranking (weighted score)  
